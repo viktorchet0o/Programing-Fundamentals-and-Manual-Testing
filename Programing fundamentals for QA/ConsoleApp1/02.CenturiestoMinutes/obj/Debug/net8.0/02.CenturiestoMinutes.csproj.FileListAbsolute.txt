@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\bin\Debug\net8.0\02.CenturiestoMinutes.exe
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\bin\Debug\net8.0\02.CenturiestoMinutes.deps.json
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\bin\Debug\net8.0\02.CenturiestoMinutes.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\bin\Debug\net8.0\02.CenturiestoMinutes.dll
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\bin\Debug\net8.0\02.CenturiestoMinutes.pdb
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\02.CenturiestoMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\02.CenturiestoMinutes.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\02.CenturiestoMinutes.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\02.CenturiestoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\02.CenturiestoMinutes.dll
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\refint\02.CenturiestoMinutes.dll
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\02.CenturiestoMinutes.pdb
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\02.CenturiestoMinutes.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiestoMinutes\obj\Debug\net8.0\ref\02.CenturiestoMinutes.dll

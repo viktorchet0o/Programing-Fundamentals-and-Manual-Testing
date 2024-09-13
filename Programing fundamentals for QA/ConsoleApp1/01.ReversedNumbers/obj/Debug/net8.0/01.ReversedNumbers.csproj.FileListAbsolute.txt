@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\bin\Debug\net8.0\01.ReversedNumbers.exe
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\bin\Debug\net8.0\01.ReversedNumbers.deps.json
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\bin\Debug\net8.0\01.ReversedNumbers.runtimeconfig.json
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\bin\Debug\net8.0\01.ReversedNumbers.dll
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\bin\Debug\net8.0\01.ReversedNumbers.pdb
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\01.ReversedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\01.ReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\01.ReversedNumbers.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\01.ReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\01.ReversedNumbers.dll
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\refint\01.ReversedNumbers.dll
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\01.ReversedNumbers.pdb
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\01.ReversedNumbers.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\01.ReversedNumbers\obj\Debug\net8.0\ref\01.ReversedNumbers.dll
